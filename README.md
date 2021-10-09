@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @junlovecat
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning JAVA
+- 💞️ I’m looking to collaborate on pygame
+- 📫 How to reach me with junlovecat@naver.com
